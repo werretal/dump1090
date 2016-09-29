@@ -1,1 +1,2 @@
-Page with restricted area and plane callsigns
+Old dump1090 webpage with german restricted areas/CTRs and AC callsigns.
+
